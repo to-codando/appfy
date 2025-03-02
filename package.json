@@ -1,0 +1,20 @@
+{
+  "name": "appfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/src/main.js",
+  "types": "dist/src/main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.25.0",
+    "htm": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.5"
+  }
+}

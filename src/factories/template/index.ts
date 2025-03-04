@@ -1,5 +1,5 @@
-import htm from "htm";
 import { hyperFactory } from "@/factories";
+import htm from "htm";
 
 export type Template = ReturnType<typeof html>;
 

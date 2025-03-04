@@ -14,4 +14,5 @@ const _options = { target: _target, props: _props };
 
 export const render: Render = (factory, options = _options) => {
   const component = createComponent(factory, options);
+  console.log("running...");
 };

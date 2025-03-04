@@ -1,4 +1,4 @@
-import type { Template, HMap } from "@/factories";
+import type { HMap, Template } from "@/factories";
 
 export type ComponentProps<T = unknown> = {
   [key: string]: T;
